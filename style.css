@@ -1,0 +1,53 @@
+body {
+    background: 
+        linear-gradient(
+            rgba(231, 217, 15, 0.3), rgba(231, 217, 15, 0.3)
+        ), 
+        url(imagens/fundo.png);
+        min-height: 100%;
+        font: 20px Arial, Helvetica, sans-serif;
+}
+.links {
+    background-color: rgba(207, 185, 141, 0.747);
+    font-size: large;
+    font-weight: bold;
+    width: 70%;
+}
+.link {
+    color:rgba(24, 16, 133, 0.747);
+}
+#table {
+    padding-left: 10px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+#rodape {
+    text-align: center;
+    width: 70%;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.th {
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+    font-weight: normal;
+}
+#sobre {
+    background-color: rgb(244, 248, 179);
+    width: 70%;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+p {
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a {
+    text-decoration: none;
+}
+.borderimg {
+    border: 9px solid rgb(207, 186, 121); 
+}
